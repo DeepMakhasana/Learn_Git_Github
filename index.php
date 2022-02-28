@@ -1,7 +1,7 @@
 <?PHP
 	echo "Hello Friends.....";
-	$project = "G.P.Valsad";
+	$project = "Git";
 	echo $project;
-	$project .= "Student";
+	$project .= "Github";
 	echo $project;
 ?>
